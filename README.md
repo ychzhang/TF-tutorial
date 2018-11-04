@@ -4,7 +4,7 @@ This repo contains the tutor code for tensorflow beginners. The documentation is
 
 The test environment is 
 ```
-python 2.7.13
+python 2.7.14
 tensorflow 1.5.0
 ```
 Clone or fork the code to your own machine. Type in
