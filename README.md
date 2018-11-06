@@ -62,6 +62,8 @@ The example will be compiled. Run the excutable file using
 ./<name_of_the_binary>
 ```
 
+If everything works fine, CUDA should be working. With the default tensorflow package and python version 2.7.14, you should now be able to run the tutor code.
+
 ## Authors
 
 * **Yichi Zhang** -  [Web](http://zhang.ece.cornell.edu/people/yichi-zhang/)
